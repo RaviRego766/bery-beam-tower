@@ -3,7 +3,7 @@
   "name": "Bery Beam Tower",
   "description": "A more resistant version of the beam node with a slightly range",
   "health": 1080,
-  "size": 3,
+  "size": 2,
   "consumesPower": true,
   "range": 30,
   "outputsPower": true,
