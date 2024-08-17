@@ -1,1 +1,18 @@
-
+{
+  "type": "BeamNode",
+  "name": "Bery Beam Tower",
+  "description": "A more resistant version of the beam node with a slightly range",
+  "health": 1080,
+  "size": 3,
+  "consumesPower": true,
+  "range": 30,
+  "outputsPower": true,
+  "requirements": [
+    "beryllium/30"
+  ],
+  "consumes": {
+      "powerBuffered": 25000
+  },
+  "category": "power",
+  "research": "beam-tower"
+  }
